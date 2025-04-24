@@ -202,7 +202,7 @@ with col2:
 # 🖼️ Main panel --------------------------------------------------------------
 # ---------------------------------------------------------------------------
 
-st.title("💬 Special JARVIS - An extra copy of Chromosome 21")
+st.title("💬 Special JARVIS")
 
 for m in HIST:
     with st.chat_message(m["role"]):
